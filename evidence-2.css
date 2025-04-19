@@ -2,5 +2,10 @@
     background-color: darkgray;
 }
 .part2{
-    background-color: darkmagenta;
+    background-color: rgb(226, 218, 226);
+    margin-top: 2%;
+    width: 80%;
+}
+textarea{
+    border-color: burlywood;
 }
